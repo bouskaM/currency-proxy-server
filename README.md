@@ -7,5 +7,6 @@ https://currency-proxy-server.vercel.app/api/daily-rates
 
 To run server locally: 
 ```
+npm install
 npm run dev
 ```
